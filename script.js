@@ -1,0 +1,8 @@
+alert ("Hellow World")
+alert ("Aman Siddiqui")
+alert ("19 Years Old")
+alert ("Web & App Development")
+alert ("My email address is example@gmail.com")
+alert ("A Smarter Way To Learn JavaScript")
+alert ("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
+document.write ("Yah! I cam write HTML content through JavaScript")
